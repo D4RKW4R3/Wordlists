@@ -1,4 +1,5 @@
 Principais wordlists para download:
+
 Android Pin Crack - https://github.com/urbanadventurer/android-pin-crack
 Dirb - https://github.com/v0re/dirb/blob/master/wordlists
 FuzzDB - https://github.com/fuzzdb-project/fuzzdb
