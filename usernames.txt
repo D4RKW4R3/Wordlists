@@ -15,7 +15,6 @@ ansible
 ec2-user
 vagrant
 azureuser
-admin
 bwsa
 hbv7
 kisadmin
